@@ -1,0 +1,8 @@
+﻿Name,Quantity,Component
+"PIR1",1,"2.403335768844329 , -174.94766440521846 , -160.53615235297673 , -189.58256352163187  PIR Sensor"
+"M1",1," DC Motor"
+"U2",1," LCD 16 x 2"
+"U3",1," Arduino Uno R3"
+"U4",1," H-bridge Motor Driver"
+"Rpot2",1,"250 kΩ Potentiometer"
+"R1",1,"1 kΩ Resistor"
